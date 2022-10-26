@@ -1,5 +1,5 @@
 ## Face Frontalization
-This is official Pytorch implementation for the paper "Simple and Efficient Practices for Profile-to-frontal Face Synthesis and Recognition" by Huijiao Wang, Haijian Zhang and Xulei Yang.
+This is official Pytorch implementation for the paper "Simple and Efficient Practices for Profile-to-frontal Face Synthesis and Recognition" by Huijiao Wang and Xulei Yang.
 
 The target is to provide three simple but efficient practices to CR-GAN when synthesising a frontal face image from a profile.
 
